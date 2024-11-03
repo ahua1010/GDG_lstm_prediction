@@ -6,6 +6,6 @@ GDG的上手用的機器學習小練習
 
 之後使用Optuna來自動尋找最佳超參數，學習率使用Adam，學習率使用自然指數衰減來遞減，參數設定為initial_learning_rate = 0.001,decay_steps = 10000,decay_rate = 0.9
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/44017b12-56e6-4eae-8039-7470cfa6c9b0/e2049685-7e03-45a2-91e6-6f5478ec2bb4/image.png)
+![image](https://github.com/user-attachments/assets/96b267c8-6192-4b89-99c4-5cda6469524c)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/44017b12-56e6-4eae-8039-7470cfa6c9b0/c275ce05-6640-48b0-a818-00a1977c67a0/image.png)
+![Uploading image.png…]()
