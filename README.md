@@ -8,4 +8,5 @@ GDG的上手用的機器學習小練習
 
 ![image](https://github.com/user-attachments/assets/96b267c8-6192-4b89-99c4-5cda6469524c)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/89a935f0-5a9a-4ec4-ac5e-38a74e1de545)
+
